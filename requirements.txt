@@ -1,0 +1,15 @@
+datasets[audio]
+faster-whisper
+jiwer
+librosa
+matplotlib
+numpy
+opencc-python-reimplemented
+pandas
+scikit-learn
+seaborn
+soundfile
+torch
+torchaudio
+tqdm
+transformers
