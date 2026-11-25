@@ -104,8 +104,6 @@ The model notebooks were developed for Google Colab and require a GPU for practi
 - **Yu-Chun Chao ([@jzzzean](https://github.com/jzzzean))** - data preparation, augmentation pipeline, dataset analysis, and exploratory evaluation.
 - **Paul Cheng ([@ppaull07](https://github.com/ppaull07))** - baseline and augmented-model inference notebooks and repository maintenance.
 
-This contribution summary is based on the repository history and should be confirmed by both collaborators before publication.
-
 ## Limitations
 
 - Concatenating independently recorded segments does not fully reproduce naturally occurring code-switching.
